@@ -1,0 +1,47 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    color: rgb(247, 239, 239);
+    background-image: url("images/wrinkled_page.jpg");
+    
+   
+
+    }
+h1, h2, h3 {
+    text-align: center;
+    clear: both;
+    font-family: "Monaco", monospace;
+    font-weight: normal;
+    }
+
+h2 {
+    text-align: center;
+    margin-top: 5em;
+    text-decoration: underline;
+
+}
+
+img {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+    margin-left: 300px;
+    margin-right: auto;
+    border-style: double;
+    border-color: white;
+}
+
+p {
+    margin-top: 0.51em;
+    margin-bottom: 0.49em;
+    font-family: "Monaco", monospace;
+    font-weight: normal;
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both
+    }
