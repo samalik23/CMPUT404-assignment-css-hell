@@ -1,0 +1,44 @@
+
+body {
+    
+    font-family: "Copperplate", fantasy;
+    background-color: rgb(116, 40, 40);
+    background-image: url("spaceCat.jpeg");
+    
+    color: white;
+}
+
+.profilePic img {
+
+    align-self: center;
+    margin-left: 1%;
+    margin-right: auto;
+    border-radius: 1px;
+    border-color: black;
+    border-radius: 10%;
+}
+
+h2 {
+    background-color: rgb(255, 196, 34);
+    color: black;
+    margin-left: 50%;
+}
+
+h1 {
+    margin-left: 41%;
+    color: blue;
+
+}
+
+h4 {
+    margin-left: 1%;
+}
+
+h5 {
+    margin-left: 2%;
+}
+
+.content {
+    height: 100%;
+}
+

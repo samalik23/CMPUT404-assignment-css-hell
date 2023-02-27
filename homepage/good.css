@@ -1,0 +1,39 @@
+body {
+    margin-left: 7%;
+    margin-right: 7%;
+    font-family: "Monaco", monospace;
+    background-color: rgb(128, 209, 237);
+}
+
+.profilePic img {
+    align-self: center;
+    margin-left: 35%;
+    margin-right: auto;
+    border-radius: 2px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 100%;
+}
+
+h2 {
+    background-color: white;
+
+}
+
+h1 {
+    margin-left: 41%;
+
+}
+
+h4 {
+    margin-left: 1%;
+}
+
+h5 {
+    margin-left: 2%;
+}
+
+.content {
+    height: 100%;
+}
+
