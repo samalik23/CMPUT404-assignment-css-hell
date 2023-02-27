@@ -3,6 +3,14 @@ Assignment: CSS Hell
 
 You will skin 3 project gutenberg stories with custom CSS.
 
+https://www.vecteezy.com/photo/2124233-pale-brown-vintage-paper-texture-background
+Used as background for pages ^ 
+
+Changed font color to white in order for easier readability
+Spaced out h2 so easier to distinguish between chapter
+Changed font of body
+Underlined all h2 in order to tell when new chapter is coming
+
 You will skin 2 versions of a possible professional homepage for your
 self with 2 versions of CSS.
 
